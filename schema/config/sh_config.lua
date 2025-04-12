@@ -1,2 +1,2 @@
-ow.config:SetDefault("schemaColor", Color(255, 153, 0))
-ow.config:SetDefault("mainMenuMusic", "minerva/halflife/transitionary/music/Spencer Baggett/Have A Very Safe Day.mp3")
+ow.config:SetDefault("schemaColor", Color(0, 200, 75))
+ow.config:SetDefault("mainMenuMusic", "ambient/music/country_rock_am_radio_loop.wav")
