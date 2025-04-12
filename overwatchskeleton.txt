@@ -1,0 +1,7 @@
+"overwatchskeleton.txt"
+{
+    "base"              "overwatch"
+    "title"             "Overwatch: Skeleton"
+    "author"            "Riggs"
+    "menusystem"        "1"
+}
