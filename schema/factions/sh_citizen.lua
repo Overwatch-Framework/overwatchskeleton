@@ -1,6 +1,6 @@
 FACTION_CITIZEN = ow.faction:Register({
     Name = "Citizen",
-    Description = "An oppressed citizen of city 17 wearing a blue jumpsuit.",
+    Description = "An ordinary citizen living life while wearing ridiculous clothing.",
     Color = Color(20, 150, 20),
     IsDefault = true
 })
