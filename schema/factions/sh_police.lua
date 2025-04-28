@@ -4,6 +4,8 @@ FACTION_POLICE = ow.faction:Register({
     Color = Color(20, 50, 150),
     IsDefault = true,
 
+    Image = "gamepadui/hl2/chapter3",
+
     Models = {
         "models/player/gasmask.mdl",
         "models/player/riot.mdl",
