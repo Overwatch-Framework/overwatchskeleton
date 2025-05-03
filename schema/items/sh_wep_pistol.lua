@@ -1,3 +1,5 @@
+local ITEM = {}
+
 ITEM.Name = "Pistol"
 ITEM.Description = "A standard sidearm, effective at close to medium range."
 ITEM.Category = "Weapons"
@@ -36,3 +38,5 @@ ITEM.Actions.EquipUn = {
         return ply:HasWeapon("weapon_pistol")
     end
 }
+
+ow.item:Register(ITEM)
