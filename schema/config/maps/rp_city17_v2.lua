@@ -2,8 +2,6 @@
 -- But I've just hardcoded the values for us, so we don't have to rely on the viewcontrol entity.
 -- The values are printed in the console, so you can copy them and paste them in the config file.
 -- if ( SERVER ) then
---     util.AddNetworkString("ow.hl2rp.viewControl")
--- 
 --     local viewControl = ents.FindByClass("point_viewcontrol")[1]
 --     if ( IsValid(viewControl) ) then
 --         ow.config:SetDefault("mainmenu.pos", viewControl:GetPos())
