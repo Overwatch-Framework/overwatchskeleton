@@ -33,8 +33,8 @@ This file defines basic information and loading behavior.
 
 1. **Clone the repo** or copy the `overwatchskeleton` directory into your `gamemodes` folder.
 2. Rename the folder and schema metadata as needed.
-3. Start your server with `+gamemode "yourschema"`.
-4. Begin adding and modifying your content: factions, items, modules, etc.
+3. Begin adding and modifying your content: factions, items, modules, etc.
+4. Start your server with `+gamemode "yourschema"`.
 
 ---
 
